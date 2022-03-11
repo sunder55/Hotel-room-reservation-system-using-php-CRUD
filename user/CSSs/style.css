@@ -1,0 +1,56 @@
+#img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 25em;
+  border-radius: 10px;
+}
+#h1 {
+  color: cornflowerblue;
+  text-shadow: 4px 4px skyblue;
+}
+#double {
+  margin-left: 9.6em;
+  padding-top: 30px;
+  height: 10em;
+  width: 13em;
+  border-radius: 10px;
+}
+span.green-overlay {
+  background: rgba(0, 255, 0, 0.2);
+
+  display: none;
+
+  height: 200px;
+
+  width: 200px;
+
+  position: relative;
+
+  bottom: 200px;
+
+  margin-bottom: -200px;
+}
+#double:hover span.green-overlay {
+  display: block;
+}
+.dddd {
+  font-weight: bold;
+  margin-left: 9.6em;
+}
+
+.dddd:hover {
+  color: coral;
+}
+
+.h2 {
+  padding-top: 30px;
+  text-align: center;
+  color: cornflowerblue;
+  font-size: 4em;
+  width: 100%;
+}
+.logout {
+  position: absolute;
+  margin-right: 10px;
+}

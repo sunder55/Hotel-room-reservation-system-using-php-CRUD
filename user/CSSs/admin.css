@@ -1,0 +1,21 @@
+form {
+  font-weight: bold;
+  background-color: darkorange;
+  border-radius: 10px;
+
+  box-shadow: 0px 0px 5px 5px darkorange;
+  height: 24em;
+}
+.hotel {
+  text-align: center;
+  font-size: 1.5em;
+  width: 10em;
+  padding-bottom: 30px;
+}
+.btn-primary {
+  margin-left: 7.5em;
+  border-radius: 10px;
+}
+.form-control:hover {
+  background-color: lightskyblue;
+}

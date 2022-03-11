@@ -1,0 +1,25 @@
+.form {
+  font-weight: bold;
+  background-color: salmon;
+  border-radius: 10px;
+  border: 10px salmon;
+  box-shadow: 0px 0px 5px 5px salmon;
+  height: 26em;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 2em;
+  width: 10em;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+.btn-primary {
+  border-radius: 10px;
+}
+.form-control:hover {
+  background-color: lightskyblue;
+}
+#button {
+  margin-top: 15em;
+}
